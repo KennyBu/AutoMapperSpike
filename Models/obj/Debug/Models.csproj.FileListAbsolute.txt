@@ -1,0 +1,4 @@
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\Models\bin\Debug\Models.dll
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\Models\bin\Debug\Models.pdb
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\Models\obj\Debug\Models.dll
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\Models\obj\Debug\Models.pdb

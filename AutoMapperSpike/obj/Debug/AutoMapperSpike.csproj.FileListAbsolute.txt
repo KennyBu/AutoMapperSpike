@@ -1,0 +1,9 @@
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\AutoMapperSpike\bin\Debug\AutoMapperSpike.exe
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\AutoMapperSpike\bin\Debug\AutoMapperSpike.pdb
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\AutoMapperSpike\obj\Debug\AutoMapperSpike.exe
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\AutoMapperSpike\obj\Debug\AutoMapperSpike.pdb
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\AutoMapperSpike\obj\Debug\AutoMapperSpike.csprojResolveAssemblyReference.cache
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\AutoMapperSpike\bin\Debug\AutoMapper.dll
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\AutoMapperSpike\bin\Debug\AutoMapper.xml
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\AutoMapperSpike\bin\Debug\Models.dll
+C:\Users\ken\Documents\GitHub\AutoMapperSpike\AutoMapperSpike\bin\Debug\Models.pdb
